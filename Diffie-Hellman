@@ -21,7 +21,7 @@ public class Diffie
         System.out.println("kb is :"+kb);
         if(ka==kb)
         {
-            System.out.println("A & B an communicate !");
+            System.out.println("A & B can communicate !");
         }
         else
         {
